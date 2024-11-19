@@ -1,0 +1,4 @@
+langtrace-python-sdk
+crewai
+crewai-tools
+google_generativeai
